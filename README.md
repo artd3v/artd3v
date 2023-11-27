@@ -25,3 +25,11 @@
 
 ---
 
+### :chart_with_upwards_trend: My stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=artart76&theme=transparent&hide_border=&card_width=1012)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artart76&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artart76&theme=transparent&hide=issues\&rank_icon=github)
+
