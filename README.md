@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="100"/></br>
+  <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="150"/></br>
   <img src="https://komarev.com/ghpvc/?username=artart76&style=flat-square&color=blue" alt=""/>
   <h1>
-    Development of external and internal interfaces for creating web applications.
+    Deep learning of JavaScript and Progressive Web Applications
   </h1>
 </div>
 
