@@ -32,7 +32,7 @@
 
 ---
 
-### :chart_with_upwards_trend: My stats:
+### :chart_with_upwards_trend: Stats Use:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=artart76&theme=transparent&hide_border=&card_width=1012)](https://git.io/streak-stats)
 
